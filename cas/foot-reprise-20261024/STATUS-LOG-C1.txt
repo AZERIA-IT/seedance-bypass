@@ -1,0 +1,22 @@
+20:26:23Z 66407079-fed0-4b0a-8d29-3eb92273c96f status=in_progress
+20:27:09Z 66407079-fed0-4b0a-8d29-3eb92273c96f status=in_progress
+20:27:54Z 66407079-fed0-4b0a-8d29-3eb92273c96f status=in_progress
+20:28:39Z 66407079-fed0-4b0a-8d29-3eb92273c96f status=in_progress
+20:29:24Z 66407079-fed0-4b0a-8d29-3eb92273c96f status=in_progress
+20:30:11Z 66407079-fed0-4b0a-8d29-3eb92273c96f status=in_progress
+20:30:56Z 66407079-fed0-4b0a-8d29-3eb92273c96f status=in_progress
+20:31:41Z 66407079-fed0-4b0a-8d29-3eb92273c96f status=completed
+20:31:41Z result_url: https://d8j0ntlcm91z4.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/hf_20261024_202216_66407079-fed0-4b0a-8d29-3eb92273c96f.mp4
+20:31:42Z telecharge: 19722735 octets
+20:31:43Z frames ok: True
+20:31:44Z TX 2026-10-24T20:24:34 refund 210 Higgsfield Genjutsu - Object Swap
+20:31:44Z TX 2026-10-24T20:22:49 spend -210 Higgsfield Genjutsu - Object Swap
+20:31:44Z TX 2026-10-24T20:22:16 spend -60 Higgsfield Genjutsu Lite - Object Swap
+20:31:44Z TX 2026-10-24T20:18:51 refund 210 Higgsfield Genjutsu - Object Swap
+20:31:44Z TX 2026-10-24T20:16:48 spend -210 Higgsfield Genjutsu - Object Swap
+20:31:44Z TX 2026-10-24T20:16:08 refund 210 Higgsfield Genjutsu - Object Swap
+20:31:44Z TX 2026-10-24T20:14:22 spend -210 Higgsfield Genjutsu - Object Swap
+20:31:44Z TX 2026-10-24T19:08:51 refund 15 Seedance 2.5
+20:31:44Z TX 2026-10-24T19:08:50 refund 15 Seedance 2.5
+20:31:44Z TX 2026-10-24T19:08:47 refund 15 Seedance 2.5
+20:31:44Z DONE

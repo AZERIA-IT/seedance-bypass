@@ -1,0 +1,87 @@
+{
+  "created_at": "2026-10-24T20:22:16.470876Z",
+  "display_name": "Genjutsu Lite Object Swap",
+  "id": "66407079-fed0-4b0a-8d29-3eb92273c96f",
+  "job_type": "hf_mult_replace_object_flash",
+  "min_result_url": null,
+  "params": {
+    "aspect_ratio": "auto",
+    "batch_size": 1,
+    "duration": 30,
+    "enhanced_prompt": "TASK\nEdit Video 1. Replace the white-jacket leader with the footballer in Image 1, the black-jacket leader with the footballer in Image 2, and the red-jacket man with the footballer in Image 3. Replace the two closest white-team spectators with Image 4 and Image 5; replace the two closest blue-and-garnet spectators with Image 6 and Image 7. All remaining spectators become anonymous footballers in their respective team kits. Replace every knife with a small shiny golden football. Each image supplies the complete character, including identity, body, anatomy, silhouette and clothing, with nothing kept from the source figure. Keep the warehouse and all original environment elements. Video 1 controls the original performance, blocking, interactions, camera movement, framing, cuts and timing; everything outside the listed replacements keeps its look from Video 1.\n\nREFERENCES\nImage 1: athletic Black male footballer, close-cropped hair, white Real Madrid long-sleeve home kit with crest, Emirates Fly Better sponsor and number 10; no sunglasses.\nImage 2: young male footballer with short curly hair and blond tips, blue-and-garnet FC Barcelona striped kit with crest, Spotify sponsor and number 10.\nImage 3: light-skinned blond male with light stubble, glossy red leather jacket, white T-shirt and black trousers.\nImage 4: Black male footballer with short textured hair, white Real Madrid kit, number 7.\nImage 5: medium-brown male footballer with short curls, white Real Madrid kit, number 5.\nImage 6: brown-skinned male footballer with tight braids and thin moustache, blue-and-garnet FC Barcelona kit, number 11.\nImage 7: light-skinned male footballer with dark brown hair, blue-and-garnet FC Barcelona kit, number 8.\n\nSOURCE VIDEO\nVideo 1 shows two football teams facing off, their leaders linked wrist-to-wrist while holding golden footballs, then the blond man descends the stairs and separates them. Keep every hard cut, push, pan, crane move, zoom and handheld move exactly in place.\n\nSHOTS\nShot 1 (0.0–1.8s, opening): Over-shoulder medium two-shot, slow push-in. Image 2 leader foreground left faces Image 1 leader center-right; white and striped players ring them. hard cut\nShot 2 (1.8–3.4s, hard cut): Tight profile close-up, heads and shoulders only. Image 1 leader left and Image 2 leader right stare inches apart; no crowd bodies in frame. hard cut\nShot 3 (3.4–4.5s, hard cut): Extreme close-up of Image 1 leader’s hands only. His right hand flips and presents one shiny metallic-gold football at lower center, palm-sized, perfectly round and rigid, reflecting the same flash; no faces. hard cut\nShot 4 (4.5–7.5s, hard cut): Wide crane-down view. Image 1 leader center-left and Image 2 leader center-right drop into low mirrored stances, linked by the white cloth between Image 1’s left wrist and Image 2’s right wrist; each holds a golden football in the free hand. White-kit players occupy the Image 1 side, striped-kit players occupy the Image 2 side. hard cut\nShot 5 (7.5–8.6s, hard cut): Medium orbital pan. The two leaders pivot and circle while keeping the taut wrist cloth and their golden footballs visible. hard cut\nShot 6 (8.6–10.2s, hard cut): High-angle medium shot. Image 2 leader bends center-right while Image 1 leader crouches lower-left; the linked wrists pull tight and both golden footballs remain in their original hands. hard cut\nShot 7 (10.2–11.6s, hard cut): Medium rapid pan. Image 1 leader moves center to right with his golden football raised; Image 2 leader recoils in foreground left, holding his own ball. hard cut\nShot 8 (11.6–13.4s, hard cut): Wide slow push. Image 1 leader holds a deep side stance at center-left while Image 2 leader counters at center-right, their cloth stretched between wrists; both teams lean inward around them. hard cut\nShot 9 (13.4–14.5s, hard cut): Tight medium handheld pan from behind Image 2 leader. He swings the linked arm across upper frame as Image 1 leader ducks low at center; golden footballs stay solid and round. hard cut\nShot 10 (14.5–16.8s, hard cut): Elevated wide crane pan. The two leaders spin around one another at center, cloth taut, white team on one side and striped team on the other. hard cut\nShot 11 (16.8–17.6s, hard cut): Medium close-up with rapid zoom. Image 6 is centered between nearby striped teammates, sharply stepping back and twisting toward camera right. hard cut\nShot 12 (17.6–19.4s, hard cut): Medium handheld two-shot. Image 2 leader center-left and Image 1 leader center-right close together, pull on the wrist cloth and hold their golden footballs in the original hand positions. hard cut\nShot 13 (19.4–26.5s, hard cut): Low-angle medium shot, slow downward tilt. Image 3 alone descends the wooden stairs center frame, gesturing with free hands, then pivots toward the warehouse floor; boxes and stair rail remain unchanged. hard cut\nShot 14 (26.5–29.4s, hard cut): Static medium three-shot. Image 3 enters center between Image 1 leader on left and Image 2 leader on right, placing left hand on Image 1’s chest and right hand on Image 2’s shoulder/chest; both teams fill the smoky background.\n\nPROPS\nEvery former knife is one palm-sized shiny golden football: perfectly spherical, rigid metallic gold, no seams, no blade, held in the exact original hand and following the same gesture.\nThe white cloth is a stout white fabric strip tied securely from Image 1 leader’s left wrist to Image 2 leader’s right wrist, remaining one continuous taut strip throughout.\n\nSETTING\nKeep the original dim industrial warehouse from Video 1: concrete floor, wooden stairs, boxes, smoke, teal-green and warm rim light, film grain, and 4:3 framing. Keep original depth, crowd circle and motion blur.\n\nNEGATIVE\nno knives or blades, no sunglasses on Image 1 leader, no extra people, no duplicated or cloned players, no face drift, no swapped faces, no mixed kits, no source costumes, no source people, no morphing or melting golden footballs, no missing wrist cloth, no gibberish text, no added text, no flicker, no extra cuts, no new camera moves, no slow motion, no subtitles, clean frame edge to edge",
+    "generate_audio": false,
+    "height": 1080,
+    "medias": [
+      {
+        "data": {
+          "id": "8e2cb109-e021-4d74-a1b9-2f5aa16ef987",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/8e2cb109-e021-4d74-a1b9-2f5aa16ef987.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "068842f3-43ad-4029-b45a-e6ac42a0aef5",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/068842f3-43ad-4029-b45a-e6ac42a0aef5.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "723cb6ee-39e5-453f-85da-f3d4dfcac4e2",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/723cb6ee-39e5-453f-85da-f3d4dfcac4e2.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "39fcba50-93d3-4ca6-be6f-9171520fa547",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/39fcba50-93d3-4ca6-be6f-9171520fa547.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "c6f4c491-6bac-4f0d-9eac-cbccee804337",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/c6f4c491-6bac-4f0d-9eac-cbccee804337.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "ce6fe8b1-c9ae-4024-93ae-a9b276f53cd2",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/ce6fe8b1-c9ae-4024-93ae-a9b276f53cd2.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "b72abb35-d74c-4550-be55-40742d8ad40c",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/b72abb35-d74c-4550-be55-40742d8ad40c.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "7a92aa1b-f4b2-4500-881c-c3d8a262f595",
+          "type": "video_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/7a92aa1b-f4b2-4500-881c-c3d8a262f595.mp4"
+        },
+        "role": "video"
+      }
+    ],
+    "prompt": "VIDEO SUBJECT REPLACEMENT — TWO FOOTBALL GANGS\nReplace the two rival gang leaders, the man in the red leather jacket and every gang member of video_1 with footballers from the reference sheets, over the whole clip in one continuous pass.\n\nCHARACTER MAP (STRICT)\n1. Leader in the white jacket with sunglasses -> the man of IMAGE 1: white long-sleeve home kit, number 10, no sunglasses.\n2. Leader in the black leather jacket with brown hair -> the man of IMAGE 2: curly hair with blond tips, blue and garnet striped kit, number 10.\n3. Man in the red leather jacket who walks alone and then steps between the two leaders -> the man of IMAGE 3: short blond hair, light stubble, red leather jacket, white T-shirt, black trousers.\n4. Gang on the white-jacket side -> all in the same white kit as IMAGE 1. The two closest to the leader are IMAGE 4 (number 7) and IMAGE 5 (number 5). The others are anonymous players in that white kit.\n5. Gang on the black-jacket side -> all in the same blue and garnet striped kit as IMAGE 2. The two closest to the leader are IMAGE 6 (number 11, braids, thin moustache) and IMAGE 7 (number 8). The others are anonymous players in that striped kit.\n6. Every knife -> a small shiny golden football, held in the same hand with the same gesture and the same flash of light.\n\nCHARACTER REFERENCE LOCK\nEach sheet is the primary visual reference for that person: exact face, skin tone, hair, beard, build, kit, sponsor, crest and number. Do not mix faces between people, do not swap kits between the two teams, do not redesign anyone.\n\nMOTION AND SCENE PRESERVATION\nKeep every movement of video_1: the face-off, the tied-wrist duel, the lunges, spins and dodges, the crowd pushing in, the solo walk and dance, the final separation. Keep the warehouse, the smoke, the boxes and stairs, the lighting, the camera moves, the framing and every cut exactly as in video_1. Only the people and the knives change.\n\nTIMELINE\n0-4 s: the two gangs face each other, close-ups of IMAGE 1 and IMAGE 2 face to face.\n4 s: close-up of a hand pulling the knife from the jacket -> the golden football.\n5-17 s: wide shots of the duel in the warehouse, IMAGE 1 and IMAGE 2 circling and lunging, both gangs around them.\n18-23 s: IMAGE 3 alone among the boxes, walking and dancing in the red jacket.\n23-29.9 s: IMAGE 3 arrives between IMAGE 1 and IMAGE 2 and pushes them apart, both gangs behind them.\n\nREALISM — LIVING FACES\nReal skin with pores and sweat, natural eyes and expressions that follow video_1, same film grain, same teal and pink grading, same motion blur as video_1.\n\nNEGATIVE CONSTRAINTS\nNo knives in any frame, no sunglasses on IMAGE 1, no extra or duplicated people, no face drift, no morphing between players, no kit mixing, no flicker, no text, no added cuts, no change of the environment.\n\nFINAL INSTRUCTION\nvideo_1 is the source of truth for scene, timing, camera, choreography and environment. The reference sheets are the source of truth for each person's identity and kit.",
+    "resolution": "720p",
+    "width": 1440
+  },
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/hf_20261024_202216_66407079-fed0-4b0a-8d29-3eb92273c96f.mp4",
+  "status": "completed",
+  "thumbnail_url": "https://cdn.higgsfield.ai/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/hf_20261024_202216_66407079-fed0-4b0a-8d29-3eb92273c96f_thumbnail.webp"
+}

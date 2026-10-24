@@ -1,0 +1,86 @@
+{
+  "created_at": "2026-10-24T20:14:22.372308Z",
+  "display_name": "Higgsfield Multiplier Replace Object",
+  "id": "c8aaf9dc-cb3d-46c2-81cb-551521e9b462",
+  "job_type": "hf_mult_replace_object",
+  "min_result_url": null,
+  "params": {
+    "aspect_ratio": "auto",
+    "batch_size": 1,
+    "duration": 30,
+    "enhanced_prompt": null,
+    "generate_audio": false,
+    "height": 1080,
+    "medias": [
+      {
+        "data": {
+          "id": "8e2cb109-e021-4d74-a1b9-2f5aa16ef987",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/8e2cb109-e021-4d74-a1b9-2f5aa16ef987.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "068842f3-43ad-4029-b45a-e6ac42a0aef5",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/068842f3-43ad-4029-b45a-e6ac42a0aef5.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "723cb6ee-39e5-453f-85da-f3d4dfcac4e2",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/723cb6ee-39e5-453f-85da-f3d4dfcac4e2.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "39fcba50-93d3-4ca6-be6f-9171520fa547",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/39fcba50-93d3-4ca6-be6f-9171520fa547.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "c6f4c491-6bac-4f0d-9eac-cbccee804337",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/c6f4c491-6bac-4f0d-9eac-cbccee804337.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "ce6fe8b1-c9ae-4024-93ae-a9b276f53cd2",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/ce6fe8b1-c9ae-4024-93ae-a9b276f53cd2.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "b72abb35-d74c-4550-be55-40742d8ad40c",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/b72abb35-d74c-4550-be55-40742d8ad40c.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "be6e2a73-76bb-4c2a-95f7-32f3358bfcd8",
+          "type": "video_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/be6e2a73-76bb-4c2a-95f7-32f3358bfcd8.mp4"
+        },
+        "role": "video"
+      }
+    ],
+    "prompt": "VIDEO SUBJECT REPLACEMENT — TWO FOOTBALL GANGS\nReplace the two rival gang leaders, the man in the red leather jacket and every gang member of video_1 with footballers from the reference sheets, over the whole clip in one continuous pass.\n\nCHARACTER MAP (STRICT)\n1. Leader in the white jacket with sunglasses -> the man of IMAGE 1: white long-sleeve home kit, number 10, no sunglasses.\n2. Leader in the black leather jacket with brown hair -> the man of IMAGE 2: curly hair with blond tips, blue and garnet striped kit, number 10.\n3. Man in the red leather jacket who walks alone and then steps between the two leaders -> the man of IMAGE 3: short blond hair, light stubble, red leather jacket, white T-shirt, black trousers.\n4. Gang on the white-jacket side -> all in the same white kit as IMAGE 1. The two closest to the leader are IMAGE 4 (number 7) and IMAGE 5 (number 5). The others are anonymous players in that white kit.\n5. Gang on the black-jacket side -> all in the same blue and garnet striped kit as IMAGE 2. The two closest to the leader are IMAGE 6 (number 11, braids, thin moustache) and IMAGE 7 (number 8). The others are anonymous players in that striped kit.\n6. Every knife -> a small shiny golden football, held in the same hand with the same gesture and the same flash of light.\n\nCHARACTER REFERENCE LOCK\nEach sheet is the primary visual reference for that person: exact face, skin tone, hair, beard, build, kit, sponsor, crest and number. Do not mix faces between people, do not swap kits between the two teams, do not redesign anyone.\n\nMOTION AND SCENE PRESERVATION\nKeep every movement of video_1: the face-off, the tied-wrist duel, the lunges, spins and dodges, the crowd pushing in, the solo walk and dance, the final separation. Keep the warehouse, the smoke, the boxes and stairs, the lighting, the camera moves, the framing and every cut exactly as in video_1. Only the people and the knives change.\n\nTIMELINE\n0-4 s: the two gangs face each other, close-ups of IMAGE 1 and IMAGE 2 face to face.\n4 s: close-up of a hand pulling the knife from the jacket -> the golden football.\n5-17 s: wide shots of the duel in the warehouse, IMAGE 1 and IMAGE 2 circling and lunging, both gangs around them.\n18-23 s: IMAGE 3 alone among the boxes, walking and dancing in the red jacket.\n23-29.9 s: IMAGE 3 arrives between IMAGE 1 and IMAGE 2 and pushes them apart, both gangs behind them.\n\nREALISM — LIVING FACES\nReal skin with pores and sweat, natural eyes and expressions that follow video_1, same film grain, same teal and pink grading, same motion blur as video_1.\n\nNEGATIVE CONSTRAINTS\nNo knives in any frame, no sunglasses on IMAGE 1, no extra or duplicated people, no face drift, no morphing between players, no kit mixing, no flicker, no text, no added cuts, no change of the environment.\n\nFINAL INSTRUCTION\nvideo_1 is the source of truth for scene, timing, camera, choreography and environment. The reference sheets are the source of truth for each person's identity and kit.",
+    "resolution": "720p",
+    "width": 1440
+  },
+  "result_url": null,
+  "status": "queued"
+}

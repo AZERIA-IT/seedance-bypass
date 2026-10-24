@@ -1,0 +1,70 @@
+{
+  "created_at": "2026-10-01T01:43:45.694181Z",
+  "display_name": "Higgsfield Multiplier Replace Object",
+  "id": "45e85f4e-ec69-4b30-aefd-b820ca9c9297",
+  "job_type": "hf_mult_replace_object",
+  "min_result_url": null,
+  "params": {
+    "aspect_ratio": "auto",
+    "batch_size": 1,
+    "duration": 29,
+    "enhanced_prompt": "@Image1 — CLAUDE, the replacement MAN: a pale, freckled man with a long narrow face, small round gold glasses, thin ginger moustache, and two tall rounded ginger hair columns divided by a bare central strip; use the close-up portrait for his face, never the white face mask in the full-body views. Wardrobe: dark olive-green velvet three-piece suit, cream shirt, burgundy tie, dark brown shoes.\n@Image2 — JEAN PHIL, the replacement MAN: a fair freckled man with a honey-blond bob, curled handlebar moustache, and defined facial features from the close-up portrait; never render the white face mask. Wardrobe: brown houndstooth jacket, cream shirt, dark tie, tan trousers, brown shoes.\n@Image3 — LEOPOLD, the replacement MAN: a dark-brown-skinned man with very long dark curly hair, round gold glasses, moustache, and facial features from the close-up portrait; never render the white face mask. Wardrobe: burgundy velvet blazer, pale blue shirt, patterned neck scarf, white trousers, two-tone shoes.\n@Image4 — ALBINO MAN, the replacement MAN: a very pale man with long crimped platinum-white hair, gold aviator glasses, and facial features from the close-up portrait; never render the white face mask. Wardrobe: burgundy suit, magenta shirt and tie, black shoes.\n@Image5 — PAGEBOY MAN, the replacement MAN: a pale man with a black pageboy bob, heavy dark eyebrows, and facial features from the close-up portrait; never render the white face mask. Wardrobe: burgundy medieval velvet tunic with gold chain, belt, black trousers, and tall black boots.\nVideo edit. Keep this @Video1 clip exactly as it is — the same shots and cuts (cuts at 11.4s, 18.5s, 21.2s, 25.6s), the same camera moves, framing and composition, hazy industrial warehouse setting, concrete floor, fog, spotlights, choreography, source audio, pacing and timing of every shot. Change only the lead dancer and gang dancers, keeping original blocking, poses, target motion, positions, screen placement and timing while rendering each replacement person's complete image-defined appearance.\n1. REPLACE the original lead singer in the red jacket (0-11.4s, 11.4-18.5s, 18.5-21.2s, 21.2-25.6s) with CLAUDE from @Image1. Put CLAUDE into every one of those shots, matched beat-for-beat to the original forward steps, arm snaps, spins, kicks, jumps, lapel pull, and turn. Render CLAUDE's freckled long face, gold round glasses, thin ginger moustache, twin ginger hair columns, and olive velvet three-piece suit consistently across all shots.\n2. REPLACE the dancer in white jacket and dark sunglasses to the left (0-11.4s, 11.4-18.5s, 21.2-25.6s) with JEAN PHIL from @Image2, matched beat-for-beat to the original synchronized choreography. Render JEAN PHIL's honey-blond bob, curled moustache, houndstooth jacket, tan trousers, and portrait-defined face consistently.\n3. REPLACE the dancer in striped shirt and black jacket to the right (0-11.4s, 11.4-18.5s) with LEOPOLD from @Image3, matched beat-for-beat to the original synchronized choreography. Render LEOPOLD's dark-brown skin, very long curls, round gold glasses, burgundy velvet blazer, and white trousers consistently.\n4. REPLACE every remaining gang dancer in the ensemble (0-25.6s) with a varied crew led by the ALBINO MAN from @Image4 and newly invented eccentric retro 1970s men with bobs, mullets, large moustaches, and vintage suits, each matched to the original dancer's exact position and choreography. Keep the ALBINO MAN's platinum crimped hair, aviator glasses, burgundy suit, and portrait-defined face consistent wherever he appears.\n5. REPLACE the dancer with glasses and black/orange cap (0-0.5s and 25.6-27.7s) with PAGEBOY MAN from @Image5, matched beat-for-beat to his original placement and slight head turn. Render PAGEBOY MAN's black pageboy bob, portrait-defined face, burgundy velvet tunic, gold chain, and boots consistently.\nIdentity lock: CLAUDE belongs only to the lead singer in the red jacket from 0-25.6s; JEAN PHIL belongs only to the left dancer in 0-18.5s and 21.2-25.6s; LEOPOLD belongs only to the right dancer in 0-18.5s; the ALBINO MAN and the invented retro crew belong only to the remaining ensemble dancers in 0-25.6s; PAGEBOY MAN belongs only to the cap-wearing dancer in 0-0.5s and 25.6-27.7s. Within 0-25.6s, replace the original source person identified as the lead singer in the red jacket in @Video1 completely with CLAUDE in every appearance; the original identity must not appear within those windows. Retain the original performance, pose, blocking, interactions, and timing. Outside those windows, preserve that source person's original appearance, subject only to other explicitly requested edits. Within each stated replacement window, exclude each mapped original dancer completely and retain the original performance, pose, blocking, interactions, and timing; outside those windows preserve their original appearance. Identities never cross, merge, exchange, or duplicate onto differently mapped or untouched dancers. Lock all portrait-defined faces and effective wardrobes; do not render white or blank faces, reference-sheet panels, labels, or added watermarks.\nEverything else — the warehouse, fog, concrete floor, spotlight haze, remaining scene geometry, original audio, the camera moves and all timing — stays exactly the same.",
+    "generate_audio": false,
+    "height": 676,
+    "medias": [
+      {
+        "data": {
+          "id": "377ff270-3035-455e-9bb4-0ef67fcd2675",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/377ff270-3035-455e-9bb4-0ef67fcd2675_resize.jpg"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "86041325-0276-478a-8c2f-7ba7fa077d93",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/86041325-0276-478a-8c2f-7ba7fa077d93.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "632da3c7-834f-4229-8c03-dd6558065de0",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/632da3c7-834f-4229-8c03-dd6558065de0.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "7332440f-b0b6-47d4-9777-d3072dfbf184",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/7332440f-b0b6-47d4-9777-d3072dfbf184.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "5ca1fc78-b038-4669-881e-1aa87ed5661b",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/5ca1fc78-b038-4669-881e-1aa87ed5661b.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "fb8b440d-6947-437f-a511-0834e527259a",
+          "type": "video_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/fb8b440d-6947-437f-a511-0834e527259a.mp4"
+        },
+        "role": "video"
+      }
+    ],
+    "prompt": "Identity and wardrobe replacement in the supplied source music video. This is a video edit, not a new scene.\n\nREFERENCES: @Image1 = character sheet of CLAUDE, the fictional adult man in a dark olive-green velvet three-piece suit, cream shirt and burgundy tie, with a long freckled face, small round gold glasses, a thin ginger moustache and two tall rounded ginger hair columns separated by a bare central strip. @Image2 = JEAN PHIL, man with a honey-blond bob, curled handlebar moustache and brown houndstooth jacket. @Image3 = LEOPOLD, man with dark brown skin, very long dark curly hair, round gold glasses and burgundy velvet blazer. @Image4 = albino man with long crimped platinum-white hair, gold aviator glasses and burgundy suit. @Image5 = man with a black pageboy bob in a burgundy medieval velvet tunic with a gold chain.\n\nCASTING: replace the lead dancer in the red leather jacket, the man at the center of the choreography in the foggy street who leads the gang, with Claude from @Image1 in EVERY shot, wearing his olive-green velvet suit, with exactly the same dance moves, steps, arm movements, head moves and timing. Replace every gang member and dancer around him with a varied crew of the eccentric characters from @Image2 to @Image5, mixed with newly invented eccentric retro 1970s characters (bobs, mullets, big moustaches, vintage suits), each keeping his exact position and choreography. Keep the fog, the lighting, the street and every camera move.\n\nThe SOURCE VIDEO is the sole master for its complete duration: framing, camera, every cut, timing, body positions, dance moves, gestures, contacts, expressions and audio. The character sheets give identity and wardrobe ONLY; in their full-body views the faces are masked in white on purpose, so take faces ONLY from the large close-up portraits and never render a white or blank face. Replace, never add; keep Claude identical in every shot and never reveal any original face or red jacket. Preserve the original audio. No reference-sheet panels, labels or added watermark. Photorealistic music-video integration.",
+    "resolution": "720p",
+    "width": 1288
+  },
+  "result_url": null,
+  "status": "ip_detected"
+}

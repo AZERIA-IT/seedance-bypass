@@ -1,0 +1,86 @@
+{
+  "created_at": "2026-10-24T20:16:47.868644Z",
+  "display_name": "Higgsfield Multiplier Replace Object",
+  "id": "8f3e50a8-72c8-4d1a-be8a-07d0ad55390c",
+  "job_type": "hf_mult_replace_object",
+  "min_result_url": null,
+  "params": {
+    "aspect_ratio": "auto",
+    "batch_size": 1,
+    "duration": 30,
+    "enhanced_prompt": "@Image1 — WHITE 10, the MAN: dark-brown skin, close-cropped black hair, athletic build, natural facial features. Wardrobe: white long-sleeve football kit with burgundy trim, crest and sponsor, number 10, white shorts, socks, and boots; no sunglasses.\n@Image2 — STRIPED 10, the MAN: medium-brown skin, short curly hair with blond tips, athletic build, braces visible when smiling. Wardrobe: blue-and-garnet striped football kit with crest and sponsor, number 10, blue shorts, socks, and boots.\n@Image3 — RED JACKET MAN, the MAN: fair skin, short blond hair, light stubble, lean build. Wardrobe: red leather zippered jacket, white T-shirt, black trousers, white socks, and black shoes.\n@Image4 — WHITE 7, the MAN: dark-brown skin, short textured black hair, athletic build. Wardrobe: white long-sleeve football kit with burgundy trim, crest and sponsor, number 7, white shorts, socks, and boots.\n@Image5 — WHITE 5, the MAN: light-brown skin, short curly black hair, athletic build. Wardrobe: white long-sleeve football kit with burgundy trim, crest and sponsor, number 5, white shorts, socks, and boots.\n@Image6 — STRIPED 11, the MAN: medium-brown skin, braided hair, thin moustache, athletic build. Wardrobe: blue-and-garnet striped football kit with crest, number 11, blue shorts, socks, and boots.\n@Image7 — STRIPED 8, the MAN: fair skin, short brown hair, athletic build. Wardrobe: blue-and-garnet striped football kit with crest and sponsor, number 8, blue shorts, socks, and boots.\nVideo edit. Keep this @Video1 clip exactly as it is — the same shots and cuts (cuts at 1.8s, 2.8s, 3.8s, 4.8s, 7.8s, 8.8s, 11.7s, 13.8s, 14.8s, 16.2s, 17.3s, 19.8s, 26.8s), the same camera moves, framing and composition, warehouse, smoke, boxes, stairs, lighting, pacing and timing. Change only the people and the switchblade, keeping original blocking, poses, motion, positions, screen placement and timing while rendering each replacement person’s complete image-defined appearance and stature.\n1. REPLACE the original man in sunglasses and white jacket (0-16.2s, 17.3-19.8s, 26.8-30s) with WHITE 10 from @Image1. Put WHITE 10 into every appearance, matched beat-for-beat to the original face-off, tied-wrist duel, lunges, dodges, and final intervention. Render dark-brown skin, close-cropped hair, athletic build, and the complete white number-10 kit; no sunglasses. Keep the white-kit crest, sponsor, and number consistent.\n2. REPLACE the original man in the black jacket and striped t-shirt (0-16.2s, 17.3-19.8s, 26.8-30s) with STRIPED 10 from @Image2. Match every combat beat and final separation. Render medium-brown skin, blond-tipped curls, athletic build, braces, and the complete blue-and-garnet number-10 kit consistently.\n3. REPLACE the original man in the red leather zipper jacket (19.8-30s) with RED JACKET MAN from @Image3, matched beat-for-beat to his solo walk, dance, singing performance, and intervention. Render his short blond hair, light stubble, lean build, red zippered jacket, white T-shirt, and black trousers consistently.\n4. REPLACE the original white-jacket-side gang members (their crowd appearances in shots 1-12 and 14) with footballers in WHITE 10’s white kit from @Image1; make the two closest members WHITE 7 from @Image4 and WHITE 5 from @Image5, preserving their original positions and reactions. Other members are distinct anonymous footballers in the same white kit.\n5. REPLACE the original black-jacket-side gang members (their crowd appearances in shots 1-12 and 14) with footballers in STRIPED 10’s blue-and-garnet kit from @Image2; make the two closest members STRIPED 11 from @Image6 and STRIPED 8 from @Image7, preserving their original positions and reactions. Other members are distinct anonymous footballers in the same striped kit.\n6. REPLACE the silver switchblade knife (3.8-19.8s) with a small shiny golden football, held in the same hand with the same gesture, contact, motion, and flash of light.\nIdentity lock: Within 0-16.2s, 17.3-19.8s, and 26.8-30s, replace the original source person identified as the man in sunglasses and white jacket in @Video1 completely with WHITE 10 in every appearance; the original identity must not appear within those windows. Retain the original performance, pose, blocking, interactions, and timing. Outside those windows, preserve that source person's original appearance, subject only to other explicitly requested edits. Within 0-16.2s, 17.3-19.8s, and 26.8-30s, replace the original source person identified as the man in the black jacket and striped t-shirt in @Video1 completely with STRIPED 10 in every appearance; the original identity must not appear within those windows. Retain the original performance, pose, blocking, interactions, and timing. Outside those windows, preserve that source person's original appearance, subject only to other explicitly requested edits. Within 19.8-30s, replace the original source person identified as the man in the red leather zipper jacket in @Video1 completely with RED JACKET MAN in every appearance; the original identity must not appear within those windows. Retain the original performance, pose, blocking, interactions, and timing. Outside those windows, preserve that source person's original appearance, subject only to other explicitly requested edits. WHITE 10, STRIPED 10, RED JACKET MAN, WHITE 7, WHITE 5, STRIPED 11, and STRIPED 8 belong only to their mapped targets and active windows; identities never cross, merge, or exchange between targets; no replacement identity is duplicated onto another figure. Keep both teams’ kits unmixed, all faces stable, and the golden football in the former knife hand; retain realistic skin pores, sweat, expressions, film grain, and inherited motion blur.\nEverything else — the warehouse, smoke, boxes, stairs, tied white cloth, all choreography, camera moves and all timing — stays exactly the same.",
+    "generate_audio": false,
+    "height": 1080,
+    "medias": [
+      {
+        "data": {
+          "id": "8e2cb109-e021-4d74-a1b9-2f5aa16ef987",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/8e2cb109-e021-4d74-a1b9-2f5aa16ef987.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "068842f3-43ad-4029-b45a-e6ac42a0aef5",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/068842f3-43ad-4029-b45a-e6ac42a0aef5.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "723cb6ee-39e5-453f-85da-f3d4dfcac4e2",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/723cb6ee-39e5-453f-85da-f3d4dfcac4e2.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "39fcba50-93d3-4ca6-be6f-9171520fa547",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/39fcba50-93d3-4ca6-be6f-9171520fa547.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "c6f4c491-6bac-4f0d-9eac-cbccee804337",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/c6f4c491-6bac-4f0d-9eac-cbccee804337.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "ce6fe8b1-c9ae-4024-93ae-a9b276f53cd2",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/ce6fe8b1-c9ae-4024-93ae-a9b276f53cd2.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "b72abb35-d74c-4550-be55-40742d8ad40c",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/b72abb35-d74c-4550-be55-40742d8ad40c.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "5a04b4e5-ea65-429c-beac-d5d7923f9ce1",
+          "type": "video_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/5a04b4e5-ea65-429c-beac-d5d7923f9ce1.mp4"
+        },
+        "role": "video"
+      }
+    ],
+    "prompt": "VIDEO SUBJECT REPLACEMENT — TWO FOOTBALL GANGS\nReplace the two rival gang leaders, the man in the red leather jacket and every gang member of video_1 with footballers from the reference sheets, over the whole clip in one continuous pass.\n\nCHARACTER MAP (STRICT)\n1. Leader in the white jacket with sunglasses -> the man of IMAGE 1: white long-sleeve home kit, number 10, no sunglasses.\n2. Leader in the black leather jacket with brown hair -> the man of IMAGE 2: curly hair with blond tips, blue and garnet striped kit, number 10.\n3. Man in the red leather jacket who walks alone and then steps between the two leaders -> the man of IMAGE 3: short blond hair, light stubble, red leather jacket, white T-shirt, black trousers.\n4. Gang on the white-jacket side -> all in the same white kit as IMAGE 1. The two closest to the leader are IMAGE 4 (number 7) and IMAGE 5 (number 5). The others are anonymous players in that white kit.\n5. Gang on the black-jacket side -> all in the same blue and garnet striped kit as IMAGE 2. The two closest to the leader are IMAGE 6 (number 11, braids, thin moustache) and IMAGE 7 (number 8). The others are anonymous players in that striped kit.\n6. Every knife -> a small shiny golden football, held in the same hand with the same gesture and the same flash of light.\n\nCHARACTER REFERENCE LOCK\nEach sheet is the primary visual reference for that person: exact face, skin tone, hair, beard, build, kit, sponsor, crest and number. Do not mix faces between people, do not swap kits between the two teams, do not redesign anyone.\n\nMOTION AND SCENE PRESERVATION\nKeep every movement of video_1: the face-off, the tied-wrist duel, the lunges, spins and dodges, the crowd pushing in, the solo walk and dance, the final separation. Keep the warehouse, the smoke, the boxes and stairs, the lighting, the camera moves, the framing and every cut exactly as in video_1. Only the people and the knives change.\n\nTIMELINE\n0-4 s: the two gangs face each other, close-ups of IMAGE 1 and IMAGE 2 face to face.\n4 s: close-up of a hand pulling the knife from the jacket -> the golden football.\n5-17 s: wide shots of the duel in the warehouse, IMAGE 1 and IMAGE 2 circling and lunging, both gangs around them.\n18-23 s: IMAGE 3 alone among the boxes, walking and dancing in the red jacket.\n23-29.9 s: IMAGE 3 arrives between IMAGE 1 and IMAGE 2 and pushes them apart, both gangs behind them.\n\nREALISM — LIVING FACES\nReal skin with pores and sweat, natural eyes and expressions that follow video_1, same film grain, same teal and pink grading, same motion blur as video_1.\n\nNEGATIVE CONSTRAINTS\nNo knives in any frame, no sunglasses on IMAGE 1, no extra or duplicated people, no face drift, no morphing between players, no kit mixing, no flicker, no text, no added cuts, no change of the environment.\n\nFINAL INSTRUCTION\nvideo_1 is the source of truth for scene, timing, camera, choreography and environment. The reference sheets are the source of truth for each person's identity and kit.",
+    "resolution": "720p",
+    "width": 1440
+  },
+  "result_url": null,
+  "status": "ip_detected"
+}

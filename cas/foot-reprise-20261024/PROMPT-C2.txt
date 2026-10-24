@@ -1,0 +1,33 @@
+VIDEO SUBJECT REPLACEMENT — TWO RIVAL FOOTBALL CREWS
+
+Replace the two rival crew leaders, the man in the red leather jacket and every other man of video_1 with footballers from the reference sheets, over the whole clip in one continuous pass.
+
+CHARACTER MAP (STRICT)
+1. Leader in the white jacket with sunglasses -> the man of IMAGE 1: white long-sleeve home kit, number 10, no sunglasses.
+2. Leader in the black leather jacket with brown hair -> the man of IMAGE 2: curly hair with blond tips, blue and garnet striped kit, number 10.
+3. Man in the red leather jacket who walks alone and then steps between the two leaders -> the man of IMAGE 3: short blond hair, light stubble, red leather jacket, white T-shirt, black trousers.
+4. Men on the white-jacket side -> all in the same white kit as IMAGE 1. The two closest to the leader are IMAGE 4 (number 7) and IMAGE 5 (number 5). The others are anonymous players in that white kit.
+5. Men on the black-jacket side -> all in the same blue and garnet striped kit as IMAGE 2. The two closest to the leader are IMAGE 6 (number 11, braids, thin moustache) and IMAGE 7 (number 8). The others are anonymous players in that striped kit.
+6. Every blade -> a small shiny golden football, held in the same hand with the same gesture and the same flash of light.
+
+CHARACTER REFERENCE LOCK
+Each sheet is the primary visual reference for that person: exact face, skin tone, hair, beard, build, kit, sponsor, crest and number. Do not mix faces between people, do not swap kits between the two teams, do not redesign anyone.
+
+MOTION AND SCENE PRESERVATION
+Keep every movement of video_1: the face-off, the wrist-tied duel, the lunges, spins and dodges, the crowd pushing in, the solo walk and dance, the final separation. Keep the warehouse, the smoke, the boxes and stairs, the lighting, the camera moves, the framing and every cut exactly as in video_1. Only the men and the blades change.
+
+TIMELINE
+0-4 s: the two crews face each other, close-ups of IMAGE 1 and IMAGE 2 face to face.
+4 s: close-up of a hand pulling the blade from the jacket -> the golden football.
+5-17 s: wide shots of the duel in the warehouse, IMAGE 1 and IMAGE 2 circling and lunging, both crews around them.
+18-23 s: IMAGE 3 alone among the boxes, walking and dancing in the red jacket.
+23-29.9 s: IMAGE 3 arrives between IMAGE 1 and IMAGE 2 and pushes them apart, both crews behind them.
+
+REALISM — LIVING FACES
+Real skin with pores and sweat, natural eyes and expressions that follow video_1, same film grain, same teal and pink grading, same motion blur as video_1.
+
+NEGATIVE CONSTRAINTS
+No blades in any frame, no sunglasses on IMAGE 1, no extra or duplicated people, no face drift, no morphing between players, no kit mixing, no flicker, no text, no added cuts, no change of the environment.
+
+FINAL INSTRUCTION
+video_1 is the source of truth for scene, timing, camera, choreography and environment. The reference sheets are the source of truth for each person's identity and kit.

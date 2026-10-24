@@ -1,0 +1,16 @@
+Upload a local media or document file
+
+Usage:
+  higgsfield upload create <file> [flags]
+
+Examples:
+  higgsfield upload create ./reference.png
+  higgsfield upload create ./clip.mp4
+  higgsfield upload create ./source.pdf
+
+Flags:
+  -h, --help   help for create
+
+Global Flags:
+      --json       print raw JSON responses
+      --no-color   disable color output

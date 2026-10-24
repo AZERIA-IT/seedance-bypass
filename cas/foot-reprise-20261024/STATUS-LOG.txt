@@ -1,0 +1,15 @@
+20:15:55Z c8aaf9dc-cb3d-46c2-81cb-551521e9b462 status=in_progress
+20:16:55Z c8aaf9dc-cb3d-46c2-81cb-551521e9b462 status=ip_detected
+20:16:57Z TX 2026-10-24T20:16:48 spend -210 Higgsfield Genjutsu - Object Swap
+20:16:57Z TX 2026-10-24T20:16:08 refund 210 Higgsfield Genjutsu - Object Swap
+20:16:57Z TX 2026-10-24T20:14:22 spend -210 Higgsfield Genjutsu - Object Swap
+20:16:57Z TX 2026-10-24T19:08:51 refund 15 Seedance 2.5
+20:16:57Z TX 2026-10-24T19:08:50 refund 15 Seedance 2.5
+20:16:57Z TX 2026-10-24T19:08:47 refund 15 Seedance 2.5
+20:16:57Z TX 2026-10-24T19:07:36 spend -15 Seedance 2.5
+20:16:57Z TX 2026-10-24T19:07:35 spend -15 Seedance 2.5
+20:16:57Z TX 2026-10-24T19:07:33 spend -15 Seedance 2.5
+20:16:57Z TX 2026-10-24T19:04:47 refund 15 Seedance 2.5
+20:16:57Z TX 2026-10-24T19:04:42 refund 15 Seedance 2.5
+20:16:57Z TX 2026-10-24T19:04:40 refund 15 Seedance 2.5
+20:16:57Z DONE

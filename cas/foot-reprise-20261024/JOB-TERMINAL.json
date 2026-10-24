@@ -1,0 +1,86 @@
+{
+  "created_at": "2026-10-24T20:14:22.372308Z",
+  "display_name": "Higgsfield Multiplier Replace Object",
+  "id": "c8aaf9dc-cb3d-46c2-81cb-551521e9b462",
+  "job_type": "hf_mult_replace_object",
+  "min_result_url": null,
+  "params": {
+    "aspect_ratio": "auto",
+    "batch_size": 1,
+    "duration": 30,
+    "enhanced_prompt": "@Image1 — WHITE LEADER, the replacement MAN: dark-skinned athletic man with close-cropped black hair, clean-shaven face, natural skin texture, white long-sleeve home kit with maroon trim, crest and sponsor, number 10, white shorts, socks and boots. Wardrobe: complete white number-10 kit; no sunglasses.\n@Image2 — STRIPED LEADER, the replacement MAN: medium-brown-skinned athletic young man with dark curly hair tipped blond, braces, and a blue-and-garnet striped number-10 kit with crest and sponsor. Wardrobe: striped shirt, blue shorts, socks and boots.\n@Image3 — RED JACKET MAN, the replacement MAN: light-skinned man with short swept-back blond hair, light stubble, blue eyes, and a red leather jacket. Wardrobe: red leather multi-zip jacket, white T-shirt, black trousers, white socks and black shoes.\n@Image4 — WHITE PLAYER 7, the replacement MAN: dark-skinned athletic man with a high textured black hairstyle and white number-7 home kit with crest and sponsor. Wardrobe: complete white kit, socks and boots.\n@Image5 — WHITE PLAYER 5, the replacement MAN: light-brown-skinned athletic man with short dense curls and white number-5 home kit with crest and sponsor. Wardrobe: complete white kit, socks and boots.\n@Image6 — STRIPED PLAYER 11, the replacement MAN: brown-skinned athletic man with tight braids, thin moustache, small goatee, and blue-and-garnet striped number-11 kit with crest and sponsor. Wardrobe: striped shirt, blue shorts, socks and boots.\n@Image7 — STRIPED PLAYER 8, the replacement MAN: light-skinned athletic man with short dark brown hair and blue-and-garnet striped number-8 kit with crest and sponsor. Wardrobe: striped shirt, blue shorts, socks and boots.\nVideo edit. Keep this @Video1 clip exactly as it is — the same shots and cuts (cuts at 1.9s, 3.2s, 4.8s, 7.8s, 9.1s, 11.2s, 14.2s, 15.1s, 16.9s, 18.0s, 20.0s, 26.8s), the same camera moves, framing and composition, warehouse, haze, boxes, stairs, crowd blocking, lighting, pacing and timing of every shot. Change only the three named men, both rival gangs, and the knives into golden footballs, while retaining all original blocking, poses, contact points, motion and screen placement.\n1. REPLACE the original gang leader in the white jacket and sunglasses (0-20s and 26.8-30s) with WHITE LEADER from @Image1. Put WHITE LEADER into every appearance, matched beat-for-beat to the original face-off, tethered duel, lunges, spins, dodges and final halt. Render his dark skin, close-cropped hair, face, athletic build, white number-10 kit and no sunglasses consistently; preserve the wrist tether and all hand contacts.\n2. REPLACE the original gang leader in the black bomber jacket (0-20s and 26.8-30s) with STRIPED LEADER from @Image2, matched beat-for-beat to the original duel and final halt. Render his curly blond-tipped hair, braces, face, athletic build and blue-and-garnet number-10 kit consistently; preserve the wrist tether and all hand contacts.\n3. REPLACE the original singer in the red leather jacket (20-30s) with RED JACKET MAN from @Image3, matched beat-for-beat to the original stair descent, gestures and separation of both leaders. Render his blond hair, light stubble, face, red leather jacket, white T-shirt and black trousers consistently.\n4. REPLACE every original gang member on the white-jacket side (all crowd appearances) with white-kit footballers: place WHITE PLAYER 7 from @Image4 and WHITE PLAYER 5 from @Image5 as the two closest players to WHITE LEADER, and render all other members as distinct anonymous players in the same white kit. Preserve their original reactions, positions and timing.\n5. REPLACE every original gang member on the black-jacket side (all crowd appearances) with striped-kit footballers: place STRIPED PLAYER 11 from @Image6 and STRIPED PLAYER 8 from @Image7 as the two closest players to STRIPED LEADER, and render all other members as distinct anonymous players in the same blue-and-garnet striped kit. Preserve their original reactions, positions and timing.\n6. REPLACE only both switchblade knives (3.2-20s) with small shiny golden footballs, held in the same hands with the same gestures, contact and flashes of light; no knives remain.\nIdentity lock: WHITE LEADER belongs only to the original white-jacket leader in 0-20s and 26.8-30s; STRIPED LEADER belongs only to the original black-bomber leader in 0-20s and 26.8-30s; RED JACKET MAN belongs only to the original red-jacket singer in 20-30s. Within 0-20s and 26.8-30s, replace the original source person identified as the gang leader in the white jacket and sunglasses in @Video1 completely with WHITE LEADER in every appearance; the original identity must not appear within those windows. Retain the original performance, pose, blocking, interactions, and timing. Outside those windows, preserve that source person's original appearance, subject only to other explicitly requested edits. Within 0-20s and 26.8-30s, replace the original source person identified as the gang leader in the black bomber jacket in @Video1 completely with STRIPED LEADER in every appearance; the original identity must not appear within those windows. Retain the original performance, pose, blocking, interactions, and timing. Outside those windows, preserve that source person's original appearance, subject only to other explicitly requested edits. Within 20-30s, replace the original source person identified as the singer in the red leather jacket in @Video1 completely with RED JACKET MAN in every appearance; the original identity must not appear within those windows. Retain the original performance, pose, blocking, interactions, and timing. Outside those windows, preserve that source person's original appearance, subject only to other explicitly requested edits. WHITE PLAYER 7 and WHITE PLAYER 5 remain the nearest white-side players; STRIPED PLAYER 11 and STRIPED PLAYER 8 remain the nearest striped-side players. Identities never cross, merge, exchange, or duplicate; kits never mix between teams. Keep faces, skin texture, sweat, natural expressions, kits, crests, sponsors and numbers stable across frames and cuts.\nEverything else — the warehouse, smoke, boxes, stairs, tether, golden-ball hand contacts, all untargeted elements, the camera moves and all timing — stays exactly the same.",
+    "generate_audio": false,
+    "height": 1080,
+    "medias": [
+      {
+        "data": {
+          "id": "8e2cb109-e021-4d74-a1b9-2f5aa16ef987",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/8e2cb109-e021-4d74-a1b9-2f5aa16ef987.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "068842f3-43ad-4029-b45a-e6ac42a0aef5",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/068842f3-43ad-4029-b45a-e6ac42a0aef5.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "723cb6ee-39e5-453f-85da-f3d4dfcac4e2",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/723cb6ee-39e5-453f-85da-f3d4dfcac4e2.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "39fcba50-93d3-4ca6-be6f-9171520fa547",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/39fcba50-93d3-4ca6-be6f-9171520fa547.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "c6f4c491-6bac-4f0d-9eac-cbccee804337",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/c6f4c491-6bac-4f0d-9eac-cbccee804337.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "ce6fe8b1-c9ae-4024-93ae-a9b276f53cd2",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/ce6fe8b1-c9ae-4024-93ae-a9b276f53cd2.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "b72abb35-d74c-4550-be55-40742d8ad40c",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/b72abb35-d74c-4550-be55-40742d8ad40c.png"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "be6e2a73-76bb-4c2a-95f7-32f3358bfcd8",
+          "type": "video_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BgWrxIbWdnNEpZUGdoNKo7wlJP/be6e2a73-76bb-4c2a-95f7-32f3358bfcd8.mp4"
+        },
+        "role": "video"
+      }
+    ],
+    "prompt": "VIDEO SUBJECT REPLACEMENT — TWO FOOTBALL GANGS\nReplace the two rival gang leaders, the man in the red leather jacket and every gang member of video_1 with footballers from the reference sheets, over the whole clip in one continuous pass.\n\nCHARACTER MAP (STRICT)\n1. Leader in the white jacket with sunglasses -> the man of IMAGE 1: white long-sleeve home kit, number 10, no sunglasses.\n2. Leader in the black leather jacket with brown hair -> the man of IMAGE 2: curly hair with blond tips, blue and garnet striped kit, number 10.\n3. Man in the red leather jacket who walks alone and then steps between the two leaders -> the man of IMAGE 3: short blond hair, light stubble, red leather jacket, white T-shirt, black trousers.\n4. Gang on the white-jacket side -> all in the same white kit as IMAGE 1. The two closest to the leader are IMAGE 4 (number 7) and IMAGE 5 (number 5). The others are anonymous players in that white kit.\n5. Gang on the black-jacket side -> all in the same blue and garnet striped kit as IMAGE 2. The two closest to the leader are IMAGE 6 (number 11, braids, thin moustache) and IMAGE 7 (number 8). The others are anonymous players in that striped kit.\n6. Every knife -> a small shiny golden football, held in the same hand with the same gesture and the same flash of light.\n\nCHARACTER REFERENCE LOCK\nEach sheet is the primary visual reference for that person: exact face, skin tone, hair, beard, build, kit, sponsor, crest and number. Do not mix faces between people, do not swap kits between the two teams, do not redesign anyone.\n\nMOTION AND SCENE PRESERVATION\nKeep every movement of video_1: the face-off, the tied-wrist duel, the lunges, spins and dodges, the crowd pushing in, the solo walk and dance, the final separation. Keep the warehouse, the smoke, the boxes and stairs, the lighting, the camera moves, the framing and every cut exactly as in video_1. Only the people and the knives change.\n\nTIMELINE\n0-4 s: the two gangs face each other, close-ups of IMAGE 1 and IMAGE 2 face to face.\n4 s: close-up of a hand pulling the knife from the jacket -> the golden football.\n5-17 s: wide shots of the duel in the warehouse, IMAGE 1 and IMAGE 2 circling and lunging, both gangs around them.\n18-23 s: IMAGE 3 alone among the boxes, walking and dancing in the red jacket.\n23-29.9 s: IMAGE 3 arrives between IMAGE 1 and IMAGE 2 and pushes them apart, both gangs behind them.\n\nREALISM — LIVING FACES\nReal skin with pores and sweat, natural eyes and expressions that follow video_1, same film grain, same teal and pink grading, same motion blur as video_1.\n\nNEGATIVE CONSTRAINTS\nNo knives in any frame, no sunglasses on IMAGE 1, no extra or duplicated people, no face drift, no morphing between players, no kit mixing, no flicker, no text, no added cuts, no change of the environment.\n\nFINAL INSTRUCTION\nvideo_1 is the source of truth for scene, timing, camera, choreography and environment. The reference sheets are the source of truth for each person's identity and kit.",
+    "resolution": "720p",
+    "width": 1440
+  },
+  "result_url": null,
+  "status": "ip_detected"
+}

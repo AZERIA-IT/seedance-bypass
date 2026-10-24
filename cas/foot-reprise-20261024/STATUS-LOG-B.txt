@@ -1,0 +1,16 @@
+20:17:29Z 8f3e50a8-72c8-4d1a-be8a-07d0ad55390c status=queued
+20:18:29Z 8f3e50a8-72c8-4d1a-be8a-07d0ad55390c status=queued
+20:19:29Z 8f3e50a8-72c8-4d1a-be8a-07d0ad55390c status=ip_detected
+20:19:29Z TX 2026-10-24T20:18:51 refund 210 Higgsfield Genjutsu - Object Swap
+20:19:29Z TX 2026-10-24T20:16:48 spend -210 Higgsfield Genjutsu - Object Swap
+20:19:29Z TX 2026-10-24T20:16:08 refund 210 Higgsfield Genjutsu - Object Swap
+20:19:29Z TX 2026-10-24T20:14:22 spend -210 Higgsfield Genjutsu - Object Swap
+20:19:29Z TX 2026-10-24T19:08:51 refund 15 Seedance 2.5
+20:19:29Z TX 2026-10-24T19:08:50 refund 15 Seedance 2.5
+20:19:29Z TX 2026-10-24T19:08:47 refund 15 Seedance 2.5
+20:19:29Z TX 2026-10-24T19:07:36 spend -15 Seedance 2.5
+20:19:29Z TX 2026-10-24T19:07:35 spend -15 Seedance 2.5
+20:19:29Z TX 2026-10-24T19:07:33 spend -15 Seedance 2.5
+20:19:29Z TX 2026-10-24T19:04:47 refund 15 Seedance 2.5
+20:19:29Z TX 2026-10-24T19:04:42 refund 15 Seedance 2.5
+20:19:29Z DONE
