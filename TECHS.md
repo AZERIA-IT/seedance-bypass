@@ -37,6 +37,8 @@ $PY tools/prep_reference.py portrait.png out.png --mode sheet
 
 Détection YuNet (`tools/models/face_detection_yunet_2023mar.onnx`) → cascade Haar → bande heuristique. Testé localement sur les assets des deux cas. Astuce « character sheet » = rapportée, à confirmer sur la prochaine génération concernée.
 
+**Limite mesurée 25/10** : la planche annotée n'a **pas** dé-classifié un refus « personnage » (Jasmine) — elle vise le filtre photo/visage, pas le classifieur IP. Pour ce cas, changer de moteur (voir le moteur identité `soul_v2`, §8).
+
 ## 4. Casser l'indice « yeux » — méthode VIDÉO (voir doc/video-heysirio.md)
 
 - Vidéo : flouter la bande des yeux **sur les 3 premières secondes** du clip source, garder le reste tel quel, joindre la capture nette des yeux en second input.
@@ -68,6 +70,7 @@ Réencode propre (H.264 CRF18, sans audio, métadonnées retirées) et miroir ho
 - `nsfw` : aléatoire → relancer **une fois** à l'identique (re-run identique accepted). Causé 4× par « bare chest/barefoot » (cast Aladdin) mais aussi faux positif sans motif.
 - `failed` technique : Kling O1 Video Edit échoue 5/5 sur clip vertical 984×2300 → route `hf_mult_*_flash`.
 - `reveal_generation` : KO 0/5 → considérer tout refus comme « remboursé, sans rendu ».
+- Réf = frame d'un film, personnage identifiable (25/10) : `nano_banana_2_1` passe Aladdin seul, **refuse Jasmine sous toutes ses formes** (frame, crop serré, visage seul, annotée, art officiel) ; `seedream_5_0_flash` = `ip_detected` (les deux) ; `gpt_image_2_5` = `nsfw`. **`soul_v2` accepte Jasmine** (0,12 cr/job) — mais la ref tire le style « film » et la tenue dérive : garder les attributs précis dans le prompt. Cas complet : `cas/aladdin-jasmine-20261025/`.
 
 ## 9. Ce qui ne marche PAS (MESURÉ)
 

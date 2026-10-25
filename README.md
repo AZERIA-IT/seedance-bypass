@@ -24,6 +24,7 @@
 Cas particuliers :
 
 - `nsfw` = aléatoire → relancer **une fois** à l'identique (mesuré : re-run identique accepté).
+- **Réf = frame d'un film** (personnage identifiable) : refus côté « personnage » — recadrer/annoter sans effet. Si ça bloque, mettre la ref sur le moteur identité **`soul_v2`** (il l'accepte ; il tire le style/tenue, garder les attributs du prompt). Cas : `cas/aladdin-jasmine-20261025/`.
 - Clips verticaux très hauts → route `hf_mult_*_flash`, pas `kling_video_edit` (5/5 échecs techniques mesurés).
 - `reveal_generation` est cassé (0/5) → ne pas compter dessus.
 
@@ -38,6 +39,7 @@ Cas particuliers :
 ## Preuves, journal, sources
 
 - `cas/foot-reprise-20261024/` — 4 refus remboursés (nettoyage, miroir, texte), **accepté en changeant de moteur** (paquet identique). Journal complet.
+- `cas/aladdin-jasmine-20261025/` — attributs seuls (0 refus, recommence) ; comparaison vs film 1992 ; v2 corrigée ; bisection refs film : aladdin passe seul, jasmine bloquée (remboursée), `soul_v2` l'accepte.
 - `cas/reine-20261024/` — bisection « quiet forest » (9 refus remboursés, 15 cr nets).
 - `doc/audit-refus-2026-10.md` — audit de 22 refus (20→24/10) : chiffres, causes réelles, recette.
 - `doc/franchises-higgsfield.md` — planque Disney/Pixar/Star Wars : ce qui passe, ce qui ne passe pas, formulations validées.
