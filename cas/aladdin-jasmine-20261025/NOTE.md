@@ -10,3 +10,18 @@
 - **Fichiers** : `v1.png` (plus fidèle), `v2.png`, `prompt.txt` (= texte exact soumis).
 
 **Méthodo** : les refus `ip_detected` déjà mesurés sur Aladdin/Jasmine (10/2026) concernaient des jobs **vidéo** avec noms explicites et refs de film scannées. Ici, en image : attributs seuls + style maison = passé au premier essai.
+
+## Comparaison repro vs les vrais personnages (ajout 17:12)
+
+Demande de Mohamed : « c'est pas les vraies, c'est une reproduction — compare avec les vraies ».
+
+Références = frames du film *Aladdin* (1992) via disney.fandom (disneyscreencaps) :
+- Jasmine : `ref_jasmine_film1562.png` — jardin, plein jour, tenue turquoise (source `File:Aladdin-disneyscreencaps.com-1562.jpg`).
+- Aladdin : `ref_aladdin_film742.png` — tenue de rue (fez + gilet + torse nu), visage net (source `File:Aladdin-disneyscreencaps.com-742.jpg`).
+
+Planches côte à côte, crops buste, cadrage homogène, labels : `comparaison_jasmine.png`, `comparaison_aladdin.png` (générées par `make_compare.py`).
+
+Écarts constatés (repro → vrai) :
+- Jasmine : robe d'un bloc au lieu de crop-top + pantalon de harem (ventre nu, épaules dégagées), pas de plume de serre-tête ; coiffure approximative ; bijoux dorés OK.
+- Aladdin : chemise sous le gilet (le vrai est torse nu), pas de fez, coiffure surdimensionnée, visage générique.
+- Global : « reconnaissable en 2 s, pas fidèle en 5 s » — la fidélité demande une passe fiche perso + refs, pas une génération d'attributs seule.
